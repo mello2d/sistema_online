@@ -1,0 +1,37 @@
+p{
+    margin: 10px 10px 10px 10px;
+}
+
+.btn-primary{
+    background-color: #FF0000 !important;
+    border-color: #FF0000 !important;
+    font-size: 30px;
+}
+
+.diferente{
+    color: #0fc;
+}
+.btn-secondary{
+    background-color: rgb(225, 199, 31) !important;
+    border-color: rgb(225, 199, 31) !important;
+    color: black;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+a{
+    margin-right: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    width: 40px;
+}
+.afastado{
+    margin-top: 20px;
+}
